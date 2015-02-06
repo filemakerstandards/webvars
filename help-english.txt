@@ -1,4 +1,4 @@
 Submit Bug|#("script" ; 000) & #("html" ; "<h1>Submit Bug</h1><h4>Click the link Submit Bug to submit another.</h4>")
-Welcome|#("url" ; "app-support/welcome/")
+Welcome|#("url" ; "welcome.html")
 YouTube Help Video|#("html" ; "https://www.youtube.com/watch?v=ORLfxldFi0E")
 Recent releases|#("html" ; "<h1>Not Ready</h1><h4>This section has not been completed</h4>")
