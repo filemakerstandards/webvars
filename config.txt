@@ -1,2 +1,2 @@
 $latestVersion = 3.0;
-$downloadLink = "https://github.com/filemakerstandards/webvars/raw/master/Download%20Example.fmp12"
+$downloadLink = "https://raw.githubusercontent.com/filemakerstandards/webvars/master/Download%20Example.fmp12"
